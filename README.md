@@ -1,5 +1,5 @@
 
-# Hi, I'm Adeebkhan 👩‍💻
+# Hi, I'm Adeebkhan Pathan👩‍💻
 
 A fullstack web-developer based in India.
 
@@ -16,7 +16,7 @@ About Me:
 
 💬 Ask me about HTML/CSS, JavaScript
 
-📫 You can reach me atakpathan2799@gmail.com
+📫 You can reach out to me at akpathan2799@gmail.com
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeebkhan-pathan)
