@@ -1,7 +1,7 @@
 
 # Hi, I'm Adeebkhan Pathan👩‍💻
 
-A fullstack web-developer based in India.
+A  web-developer based in India.
 
 ![Grey and Black Professional LinkedIn Article Cover Image (1)](https://user-images.githubusercontent.com/97794108/175540629-8e9d7a55-5cf5-45b5-8065-86cd96410b40.png)
 
