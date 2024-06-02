@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hi, I'm Adeeb Khan Pathan!<br>I'm a passionate front-end developer with a keen eye for design and a love for creating intuitive user experiences. My journey in web development has equipped me with a robust skill set that includes:<br><br>HTML, CSS, and JavaScript: The foundational technologies that power the web.<br>React: My go-to library for building dynamic, high-performing user interfaces.<br>UI Libraries: Proficient in Material UI and Chakra UI, making development faster and more consistent.<br>CSS Frameworks: Skilled in Tailwind CSS for rapid, utility-first styling.<br>Design Tools: Experienced with Figma for designing and prototyping user interfaces.<br>Version Control: Well-versed in Git for efficient project collaboration and version management.
+👋 Hi, I'm Adeeb Khan Pathan!<br>I'm a passionate front-end developer with a keen eye for design and a love for creating intuitive user experiences. My journey in web development has equipped me with a robust skill set that includes:
+<ul>
+  <li><strong>HTML, CSS, and JavaScript:</strong> The foundational technologies that power the web.</li>
+  <li><strong>React:</strong> My go-to library for building dynamic, high-performing user interfaces.</li>
+  <li><strong>UI Libraries:</strong> Proficient in Material UI and Chakra UI, making development faster and more consistent.</li>
+  <li><strong>CSS Frameworks:</strong> Skilled in Tailwind CSS for rapid, utility-first styling.</li>
+  <li><strong>esign Tools:</strong> Experienced with Figma for designing and prototyping user interfaces.</li>
+  <li><strong>Version Control:</strong> Well-versed in Git for efficient project collaboration and version management.</li>
+</ul>
+<br>
 
 
 ## 🌐 Socials:
